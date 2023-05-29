@@ -1,0 +1,349 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    height: 100%;
+    width: 100%;
+}
+#home{
+    background-image: url(../imgs/CONTACTUS.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+#logo{
+    margin-left: 2cm;
+    height: 50px;
+    width: 100px;
+    position: left;
+}
+#hname{
+    width: 90%;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 7px;
+    margin-left: 1.2in;
+    margin-top: 25px;
+    position: absolute;
+}
+#circle1{
+    height: 50%;
+    width: 30%;
+    background-color: grey;
+    border-radius: 50%;
+    margin-left: 14px;
+    margin-top: 1.4in;
+    position: absolute;
+}
+
+#circle2{
+    height: 50%;
+    width: 30%;
+    background-color: black;
+    border-radius: 50%;
+    margin-left: 1.1in;
+    margin-top: 1.5in;
+    position: absolute;
+}
+
+#home-tname{
+    height: 50%;
+    width: 100%;
+    color: white;
+}
+p{
+    margin-left: 1.6in;
+    margin-top: 2.9in;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 10px;
+    position: absolute;
+}
+
+h1{
+    margin-left: 1.5in;
+    margin-top: 3in;
+    font-size: 95px;
+    position: absolute;
+}
+#home-line{
+    color: white;
+    height: 5px;
+    width: 60%;
+    margin-top: 4.3in;
+    margin-left: 1.7in;
+    position: absolute;
+    background-color: palevioletred;
+}
+#au-hname{
+    margin-top: 4%;
+    margin-bottom: 7px;
+    left: 10px;
+    right: 5px;
+    font-size: 55px;
+    text-align: center;
+    font-family: serif ;
+    font-weight: bold;
+    position: absolute;
+    color:black;
+}
+#about{
+    background-image: url(../imgs/CONTACTUS.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+.au-line{
+    margin-top: 10%;
+    margin-left: 0.5in;
+    margin-right: 0.4in;
+    height: 10px;
+    width: 90%;
+    background-color: grey;
+    position: absolute;
+}
+.shirlyn{
+    margin-left: 1px;
+    margin-top: 13%;
+    height: 90%;
+    width: 30%;
+    position: absolute;
+}
+#s-name{
+    height: 8%;
+    width: 90%;
+    padding: 5px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 45px;
+    background-color: lightgray;
+    margin-left: 0.4in;
+    margin-top: 10px;
+    font-family: serif;
+    font-size: 35px;
+    font-weight: bold;
+}
+#s-description{
+    margin-left: 0.4in;
+    margin-top: 80px;
+    font-size: 19px;
+    font-weight:bold;
+    text-align: center;
+    letter-spacing: normal;
+    color: white;
+}
+.katrina{
+    margin-left: 33%;
+    margin-top: 13%;
+    height: 90%;
+    width: 30%;
+    position: absolute;
+}
+#k-name{
+    height: 8%;
+    width: 90%;
+    padding: 5px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 45px;
+    background-color: lightgray;
+    margin-left: 0.4in;
+    margin-top: 10px;
+    font-family: serif;
+    font-size: 35px;
+    font-weight: bold;
+}
+#k-description{
+    margin-left: 0.4in;
+    margin-top: 80px;
+    font-size: 19px;
+    font-weight:bold;
+    text-align: center;
+    letter-spacing: normal;
+    color:white;
+}
+.daniel{
+    margin-left: 67%;
+    margin-top: 13%;
+    height: 90%;
+    width: 30%;
+    position: absolute;
+}
+#d-name{
+    height: 8%;
+    width: 90%;
+    padding: 5px;
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 47px;
+    background-color:lightgray ;
+    margin-left: 0.4in;
+    margin-top: 10px;
+    font-family: serif;
+    font-size: 35px;
+    font-weight: bold;
+}
+#d-description{
+    margin-left: 0.4in;
+    margin-top: 80px;
+    font-size: 19px;
+    font-weight:bold;
+    text-align: center;
+    letter-spacing: normal;
+    color: white;
+}
+
+#activities{
+    background-image: url(../imgs/CONTACTUS.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.activity1{
+    height: 30%;
+    width: 30%;
+    padding-top: 4%;
+    border-radius: 50px;
+    background-color: rgba(0,0,0,0.7);
+    color:aliceblue;
+    position: absolute;
+    font-size: 25px;
+    margin-top: 1in;
+    margin-left: 1.5in;
+}
+
+.activity1 a{
+    margin-top: 2%;
+    padding: 5px;
+    margin-left: 1.5in;
+    height: 60px;
+    width:  100px;
+    border-radius: 10px;
+    border:2px solid palevioletred;
+    color: lightskyblue;
+}
+
+.activity2{
+    height: 30%;
+    width: 30%;
+    padding: 4% 8%;
+    border-radius: 50px;
+    background-color: rgba(0,0,0,0.7);
+    color:aliceblue;
+    position: absolute;
+    font-size: 25px;
+    margin-top: 1in;
+    margin-left: 8.5in;
+}
+
+.activity2 a{
+    margin-top: 5%;
+    padding: 5px;
+    height: 60px;
+    width:  100px;
+    border-radius: 10px;
+    border: 2px solid palevioletred;
+    margin-left: 0.4in;
+    color: lightskyblue;
+}
+
+.activity3{
+    height: 30%;
+    width: 30%;
+    padding: 4% 9%;
+    border-radius: 50px;
+    background-color: rgba(0,0,0,0.7);
+    color:aliceblue;
+    position: absolute;
+    font-size: 25px;
+    margin-top: 4in;
+    margin-left: 5in;
+}
+
+.activity3 a{
+    margin-top: 20%;
+    padding: 5px;
+    height: 60px;
+    width:  100px;
+    border-radius: 10px;
+    border: 2px solid palevioletred;
+    margin-left: 9%;
+    color: lightskyblue;
+}
+
+.carousel-item{
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    position: relative;
+    background-color:black;
+    background-position: center;
+    background-size: cover;
+}
+img{
+    width: 100%;
+    height: 100%;
+    background-position:center;
+    background-size:cover;
+    position:relative;
+}
+.overlay-image{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-position: center;
+    background-size: cover;
+}
+#contact{
+    background-image: url(../imgs/CONTACTUS.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+.info{
+    height: 30%;
+    width: 30%;
+    padding-top: 4%;
+    border-radius: 50px;
+    background-color: rgba(0,0,0,0.7);
+    color:aliceblue;
+    position: absolute;
+    font-size: 25px;
+    margin-top: 1in;
+    margin-left: 1.5in;
+}
+.info1{
+    height: 30%;
+    width: 30%;
+    padding: 4% 8%;
+    border-radius: 50px;
+    background-color: rgba(0,0,0,0.7);
+    color:aliceblue;
+    position: absolute;
+    font-size: 25px;
+    margin-top: 1in;
+    margin-left: 8.5in;
+}
+.info2{
+    height: 30%;
+    width: 30%;
+    padding: 4% 9%;
+    border-radius: 50px;
+    background-color: rgba(0,0,0,0.7);
+    color:aliceblue;
+    position: absolute;
+    font-size: 25px;
+    margin-top: 4in;
+    margin-left: 5in;
+}
